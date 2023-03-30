@@ -1,0 +1,12 @@
+.signin-total{
+    position: relative;
+}
+.contain{
+    position: absolute;
+    inset: 0;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
